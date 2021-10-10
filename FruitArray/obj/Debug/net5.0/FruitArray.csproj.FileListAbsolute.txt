@@ -1,0 +1,15 @@
+C:\Users\Tommy\source\repos\StringsAndArrays\FruitArray\bin\Debug\net5.0\FruitArray.exe
+C:\Users\Tommy\source\repos\StringsAndArrays\FruitArray\bin\Debug\net5.0\FruitArray.deps.json
+C:\Users\Tommy\source\repos\StringsAndArrays\FruitArray\bin\Debug\net5.0\FruitArray.runtimeconfig.json
+C:\Users\Tommy\source\repos\StringsAndArrays\FruitArray\bin\Debug\net5.0\FruitArray.runtimeconfig.dev.json
+C:\Users\Tommy\source\repos\StringsAndArrays\FruitArray\bin\Debug\net5.0\FruitArray.dll
+C:\Users\Tommy\source\repos\StringsAndArrays\FruitArray\bin\Debug\net5.0\ref\FruitArray.dll
+C:\Users\Tommy\source\repos\StringsAndArrays\FruitArray\bin\Debug\net5.0\FruitArray.pdb
+C:\Users\Tommy\source\repos\StringsAndArrays\FruitArray\obj\Debug\net5.0\FruitArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\source\repos\StringsAndArrays\FruitArray\obj\Debug\net5.0\FruitArray.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\StringsAndArrays\FruitArray\obj\Debug\net5.0\FruitArray.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\StringsAndArrays\FruitArray\obj\Debug\net5.0\FruitArray.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\StringsAndArrays\FruitArray\obj\Debug\net5.0\FruitArray.dll
+C:\Users\Tommy\source\repos\StringsAndArrays\FruitArray\obj\Debug\net5.0\ref\FruitArray.dll
+C:\Users\Tommy\source\repos\StringsAndArrays\FruitArray\obj\Debug\net5.0\FruitArray.pdb
+C:\Users\Tommy\source\repos\StringsAndArrays\FruitArray\obj\Debug\net5.0\FruitArray.genruntimeconfig.cache

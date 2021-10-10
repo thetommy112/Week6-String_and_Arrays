@@ -1,0 +1,15 @@
+C:\Users\Tommy\source\repos\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\source\repos\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.exe
+C:\Users\Tommy\source\repos\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.deps.json
+C:\Users\Tommy\source\repos\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.runtimeconfig.json
+C:\Users\Tommy\source\repos\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.runtimeconfig.dev.json
+C:\Users\Tommy\source\repos\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.dll
+C:\Users\Tommy\source\repos\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\ref\FortuneTeller.dll
+C:\Users\Tommy\source\repos\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.pdb
+C:\Users\Tommy\source\repos\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.dll
+C:\Users\Tommy\source\repos\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\ref\FortuneTeller.dll
+C:\Users\Tommy\source\repos\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.pdb
+C:\Users\Tommy\source\repos\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.genruntimeconfig.cache
